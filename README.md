@@ -1,5 +1,6 @@
 # Monkey Empanada Animal Pose Estimation
 #### This is the public repository for the Monkey Empanada Neuromatch Academy Deep Learning team final project.
+* *Data obtained from the [OpenMonkeyChallenge](http://openmonkeychallenge.com/)
 ![image](https://user-images.githubusercontent.com/78177589/182995337-16e618a5-81bc-4aee-9fea-2daa79c8e283.png)
 ## Members
 * Duilio
